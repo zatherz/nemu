@@ -1,0 +1,6 @@
+[submodule "libs/luawak"]
+	path = libs/luawak
+	url = https://github.com/zatherz/luawak
+[submodule "libs/luanxml"]
+	path = libs/luanxml
+	url = https://github.com/zatherz/luanxml
