@@ -3,7 +3,7 @@ nemu
 
 NEMU is a collection of related small LuaJIT libraries that aim to emulate a portion of the Noita Lua API.
 
-This project **does not ever aim to reimplement any gameplay or actual functionality of the game**. Instead, it implements the bare essentials to "load" mods:
+This project **does not aim to and will never reimplement any gameplay or actual functionality of the game**. Instead, it implements the bare essentials to "load" mods:
 
 * Compatible virtual filesystem (`data.wak` support, Steam Workshop mod path redirection etc.)
 * Alterations to the Lua standard library (weird `dofile` behavior, `dofile_once` etc)
